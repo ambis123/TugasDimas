@@ -10,5 +10,8 @@ package tugasdimas;
  * @author Muhammad Rizaldy
  */
 public class TugasDimasAksi {
+    public static void main(String[] args) {
+        TugasDimas1 Dimas = new TugasDimas1();
     
+}
 }
