@@ -27,5 +27,6 @@ public class TugasDimasAksi {
           + "Warna Air Laut: Biru Jernih ";
   Dimas.Behavior=" Tempat Berlibur";
   
+  Dimas.cetakInfo();
 }
 }
